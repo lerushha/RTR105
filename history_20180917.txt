@@ -1,27 +1,91 @@
     1  VirtualBox --startvm XP
     2  quartus
-    3  un
-    4  uname 
-    5  man uname
-    6  uname -a
-    7  echo &0
-    8  echo $
-    9  echo $0
-   10  sh
-   11  echo $0
-   12  whoami
-   13  who
-   14  firefox <7
-   15  firefox &
-   16  whereami
-   17  pwd
-   18  man pwd
-   19  ls
-   20  ls -l
-   21  ls
-   22  ls -a
-   23  ls -la
-   24  ls -da
-   25  ls -al
-   26  history
-   27  history > history_20180917.txt
+    3  whoami
+    4  exit
+    5  firefofx&
+    6  firefox &
+    7  un
+    8  uname 
+    9  man uname
+   10  uname -a
+   11  echo &0
+   12  echo $
+   13  echo $0
+   14  sh
+   15  echo $0
+   16  whoami
+   17  who
+   18  firefox <7
+   19  firefox &
+   20  whereami
+   21  pwd
+   22  man pwd
+   23  ls
+   24  ls -l
+   25  ls
+   26  ls -a
+   27  ls -la
+   28  ls -da
+   29  ls -al
+   30  history
+   31  history > history_20180917.txt
+   32  ls
+   33  cat 
+   34  firefox &
+   35  cd user
+   36  cd /home
+   37  cd /user
+   38  cd /home/user
+   39  pwd
+   40  ls
+   41  cd /ManaMape
+   42  man rm
+   43  rm -r ManaMape/
+   44  ls
+   45  man echo
+   46  echo "Teksts"
+   47  "Teksts
+
+
+
+"
+   48  echo "Teksts\nTeksts\nTeksts"
+   49  man echo
+   50  esho -e
+   51  echo -e "Teksts\nTeksts\nTeksts"
+   52  echo "Teksts" > fails1.txt
+   53  ls -l
+   54  cat fails1.txt 
+   55  echo "Sits teksts" > fails1.txt 
+   56  ls -l
+   57  cat fails1.txt 
+   58  echo "Teksts" > fails1.txt 
+   59  cat fails1.txt 
+   60  echo "Cits teksts" >> fails1.txt 
+   61  cat fails1.txt 
+   62  chmod 500 fails1.txt 
+   63  ls -l
+   64  echo "Pavisam citc teksts" > fails1.txt 
+   65  echo "Cits teksts" >> ../fails.1.txt
+   66  nano fails1.txt 
+   67  ls -l
+   68  cat fails2.txt 
+   69  cp fails2.txt fails3.txt
+   70  ls -l
+   71  mv fails1.txt Music/
+   72  cd Music/
+   73  cd..
+   74  cd ..
+   75  ls
+   76  mv fails*.txt
+   77  ls
+   78  mv fails3.txt fails4.txt 
+   79  ls
+   80  mv fails1.txt ../fails101.txt
+   81  ls
+   82  mv Music/*.txt ./
+   83  ls
+   84  rm fails*.txt
+   85  ls
+   86  history
+   87  history >history_20180917.txt 
