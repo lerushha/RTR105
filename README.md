@@ -1,5 +1,5 @@
 # RTR105
-Datormācības kursa elektroniskā klāde:  
+## Datormācības kursa elektroniskā klāde:  
 **ctrl+alt+t** - atvērt konsoli;  
 **ctrl+shift+t** - jaunais logs (vkladka);  
 **firefox &** - atvērt firefox;  
