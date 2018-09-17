@@ -1,6 +1,6 @@
 # RTR105
 ## Datormācības kursa elektroniskā klāde:  
-> **ctrl+alt+t** - atvērt konsoli;  
+**ctrl+alt+t** - atvērt konsoli;  
 **ctrl+shift+t** - jaunais logs (vkladka);  
 **firefox &** - atvērt firefox;  
 **u+2 reizes TAB, y** - informācija par Ubuntu;  
