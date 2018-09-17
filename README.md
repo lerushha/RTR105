@@ -30,4 +30,5 @@
 **chmod** - mainīt tiesības;  
 **nano (+faila nosaukums) - teksta redaktors;  
 **cp** - faila kopešana;  
+- Piem.: cp fails2.txt fails3.txt (ar ko varam kopējot jau pārsaukt);  
 **mv** - pārvietot failu;
