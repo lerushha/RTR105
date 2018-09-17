@@ -2,7 +2,7 @@
 Datormācības kursa elektroniskā klāde  
 **ctrl+alt+t** - atvērt konsoli  
 **ctrl+shift+t** - jaunais logs (vkladka)  
-**firefox &** - atvērt firefox
+**firefox &** - atvērt firefox  
 **u+2 reizes TAB, y** - informācija par Ubuntu  
 **ctrl+l** - tīrs ekrāns  
 **echo $0** - ar kādu valodu strādām  
