@@ -1,5 +1,5 @@
 # RTR105
-## Datormācības kursa elektroniskā klāde:  
+## Datormācības kursa elektroniskā klāde: 1.daļa 
 **ctrl+alt+t** - atvērt konsoli;  
 **ctrl+shift+t** - jaunais logs (vkladka);  
 **firefox &** - atvērt firefox;  
@@ -17,3 +17,17 @@
 **ls -al** - detalizētais apraksts;  
 **history** - vēsture;  
 **history >(failu nosaukums.txt)** - lai saglabātu failu.  
+## klāde: 2.daļa  
+**cd** - pārvietoties; 
+**/** - saknes apgabals;
+**~** - mājas apgabals;  
+**mkdir** - izveidot jauno mapi;  
+**rmdir** - dzēst mapi;  
+**man rm** - remove files or directories;  
+**man echo** - formatēšanas simboli;  
+**cat (un faila nosaukums)** - TEKSTA failu nosaukums;  
+**>>** - papīldināt tekstu mapē;  
+**chmod** - mainīt tiesības;  
+**nano (+faila nosaukums) - teksta redaktors;  
+**cp** - faila kopešana;  
+**mv** - pārvietot failu;
