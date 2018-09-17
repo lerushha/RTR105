@@ -8,7 +8,7 @@
 **echo $0** - ar kādu valodu strādām;  
 **exit** - izeja;  
 **whoami** -  parāda, kas strādā;  
-**who** - parāda, kurš sēž blakus;  
+**who** - parāda, kas ielagojās;  
 **ctrl+alt+F1** - konsole nr.1;  
 **pwl** - noskaidro atrašanas vietu;  
 **ls** - objektu saraksts;  
