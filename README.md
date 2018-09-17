@@ -18,7 +18,7 @@
 **history** - vēsture;  
 **history >(failu nosaukums.txt)** - lai saglabātu failu.  
 ## klāde: 2.daļa  
-**cd** - pārvietoties; 
+**cd** - pārvietoties;  
 **/** - saknes apgabals;  
 **~** - mājas apgabals;  
 **mkdir** - izveidot jauno mapi;  
