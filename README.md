@@ -35,3 +35,8 @@
 **mv** - pārvietot failu;
 - ja es gribu pārvietot daudz failu ar lidzīgo nosaukumu, tad _mv fails*.txt (un vietu kur)_;  
 - šīs gadījumā * vietā var būt jebkuri simboli, jo pārvietosies visi, kur ir burti "fails"; 
+
+## klāde: 4 nodarbība;  
+**Nano** - teksta redaktors;  
+**$PATH** - norādīt ceļu;  
+

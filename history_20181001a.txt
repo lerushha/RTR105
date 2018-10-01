@@ -1,0 +1,65 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox &
+    4  whoami
+    5  who
+    6  ls
+    7  mkdir Mape
+    8  cd Mape
+    9  mkdir MapeMape
+   10  nano mans_skripts.sh
+   11  ls -l
+   12  cat mans_skripts.sh 
+   13  ls
+   14  ./mans_skripts.sk
+   15  ls -l
+   16  ~/mans_skripts.sh
+   17  /home/user/Mape/mans_skripts.sh
+   18  chmod 764 mans_skripts.sh 
+   19  ls -l
+   20  mans echp $PATH
+   21  ls -l
+   22  ls -l/bin | grep ls
+   23  ls -l /bin | grep ls
+   24  pwd
+   25  PATH=$PATH:~
+   26  echo &PATH
+   27  echo $PATH
+   28  mans_skripts.sh
+   29  cd ..
+   30  ls -l
+   31  history
+   32  cd Mape/
+   33  ls -l
+   34  cat mans_skripts.sh 
+   35  echo $PATH
+   36  PATH=$PATH:.
+   37  echo $PATH
+   38  mans_skripts.sh 
+   39  ls -l
+   40  pwd
+   41  ls -l
+   42  mans_skripts.sh nano mans_skripts.sh 
+   43  nano mans_skripts.sh 
+   44  pwd
+   45  cd
+   46  pwd
+   47  ls -l
+   48  cd Mape/
+   49  ls -l
+   50  pwd
+   51  cd
+   52  mv Mape/mans_skripts.sh  ./
+   53  ls -l
+   54  rm -r Mape/
+   55  ls -l
+   56  git clone https://github.com/lerushha/RTR105
+   57  ls -l
+   58  mv mans_skripts.sh PTR105/
+   59  cd /RTR105/
+   60  cd RTR105/
+   61  ls -l
+   62  nano README.md
+   63  pwd
+   64  ls -l
+   65  history > history_20181001a.txt
