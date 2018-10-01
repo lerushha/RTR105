@@ -39,4 +39,17 @@
 ## klāde: 4 nodarbība;  
 **Nano** - teksta redaktors;  
 **$PATH** - norādīt ceļu;  
+**=** - piešķirsanas operācija;  
 
+## 1-Python;  
+**>>>** - (pirms kursora) ta ir atsķirība no Shell;  
+**vars()** - kas ir pieējams;  
+**(objekts.__doc__)** - dokumentācijas pieprasības;  
+
+## 2-Ipython;  
+**In [1]:** - (oirms kursora);  
+
+## 3-Idle &;  
+**type(a)** - noskaidrot veidu(ant, float vai str);  
+**ctrl+k** - kopēt;  
+**ctrl+u** - ielīmēt;  
