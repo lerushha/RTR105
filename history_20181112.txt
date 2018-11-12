@@ -9,3 +9,12 @@
     9  ls -l
    10  idle &
    11  history>history_20181112.txt
+   12  ls -l
+   13  ./git-upload 20181112_11_10
+   14  firefox &
+   15  git clone https://github.com/lerushha
+   16  ls -l
+   17  cd RTR105/
+   18  idle &
+   19  ls -l
+   20  history>history_20181112.txt
