@@ -1,0 +1,22 @@
+    1  idle 
+    2  python
+    3  sudo apt upgrade
+    4  sudo apt install python3 - y
+    5  sudo apt install python3
+    6  sudo apt install idle
+    7  sudo apt install ipython
+    8  git clone https://github.com/lerushha/RTR105
+    9  sudo apt install git
+   10  git clone https://github.com/lerushha/RTR105
+   11  cd RTR105
+   12  idle &
+   13  firefox &
+   14  ls
+   15  ls -l
+   16  ./git-upload 20181121_01_20
+   17  history > history_20181121.txt
+   18  cd RTR105/
+   19  idle &
+   20  firefox &
+   21  ls -l
+   22  history>history_20181122.txt
