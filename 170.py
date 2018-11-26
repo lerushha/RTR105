@@ -13,10 +13,10 @@ funa = f(a)
 funb = f(b)
 
 if (funa*funb>0.0):
-    print ("Dotaja intervala [%s, %s] saknju nav" %(a,b))
+    print ("Funkcijas sin(x) dotaja intervala [%s, %s] saknju nav" %(a,b))
     sleep(1); exit()
 else:
-    print ("Dotaja intervala sakne(s) ir!")
+    print ("Funkcijas sin(x) dotaja intervala sakne(s) ir!")
 
 deltax = 0.001
 
@@ -27,6 +27,6 @@ while (fabs(b-a)>deltax):
         b=x       
     else:
         a=x
-print ("Sakne ir:", x)
+print (" sin(x) Sakne ir:", x)
 print ("y=", sin(x))
 print ("k=", k)
