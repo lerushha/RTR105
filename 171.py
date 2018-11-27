@@ -1,4 +1,4 @@
-#Aptuveni novērtējot funkcijas saknes vērtību lietojot ”peli” iegūstam x=8,8660.
+#Aptuveni novērtējot funkcijas saknes vērtību lietojot ”peli” iegūstam x=0.0109052
 
 from math import atan, fabs
 from time import sleep
@@ -6,8 +6,8 @@ from time import sleep
 def f(x):
     return atan(x)
 k=0
-a = -1
-b = 1
+a = -3
+b = 3
 
 funa = f(a)
 funb = f(b)
