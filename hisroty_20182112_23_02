@@ -1,0 +1,25 @@
+    1  firefox&
+    2  python
+    3  ipython
+    4  git clone https://github.com/lerushha/RTR105
+    5  sudo apt install git
+    6  git clone https://github.com/lerushha/RTR105
+    7  idle &
+    8  firefox &
+    9  sudo lspci | grep Network
+   10  phyton 
+   11  python
+   12  idle &
+   13  ls -l
+   14  cd RTR105/
+   15  ls -l
+   16  git-upload atskaite
+   17  git upload atskaite
+   18  ./git-upload atskaite
+   19  history>history 20182112_22_51
+   20  history >history 20182112_22_51
+   21  history > history_20182112_22_51
+   22  ./git-upload 20182112_22_52
+   23  firefox &
+   24  ls -l
+   25  history >hisroty_20182112_23_02
