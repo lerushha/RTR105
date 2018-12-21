@@ -47,7 +47,7 @@
 **(objekts.__doc__)** - dokumentācijas pieprasības;  
 
 ## 2-Ipython;  
-**In [1]:** - (oirms kursora);  
+**In [1]:** - (pirms kursora);  
 
 ## 3-Idle &;  
 **type(a)** - noskaidrot veidu(ant, float vai str);  
