@@ -1,10 +1,6 @@
-
-#print(vars())
 import sys
 sys.path.append('/usr/local/anaconda3/lib/python3.6/site-packages')
-
-#print(vars())
-
+                
 from numpy import cos, linspace, sin
 
 #x = linspace(0, 7, 70) #solis=(7-0)/(70-1)
